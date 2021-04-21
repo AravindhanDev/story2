@@ -1,2 +1,3 @@
 hello, everyone this is new story
-of how noob become developer
+of how noob become full stack web developer
+and part time python GUI developer
